@@ -1,0 +1,20 @@
+body {
+      background-color: #333356;
+      color: white;
+      font-family: "Noto Sans";
+}
+a:link {
+      color: #4eb5ff;
+      background-color: transparent;
+      text-decoration: underline;
+}
+a:visited {
+      color: #c092ff;
+      background-color: transparent;
+      text-decoration: underline;
+}
+a:hover, a:active {
+      color: #004bff;
+      background-color: transparent;
+      text-decoration: underline;
+}
