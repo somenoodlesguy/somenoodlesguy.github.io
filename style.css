@@ -18,7 +18,3 @@ a:hover, a:active {
       background-color: transparent;
       text-decoration: underline;
 }
-h1 {
-  font-size: 5rem;
-  font-family: "Space Mono", monospace;
-}
