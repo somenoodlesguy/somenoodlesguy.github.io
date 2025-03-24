@@ -18,9 +18,9 @@ p {
 
 .cool-box-thing {
     background-color: #00000022;
-    width: 100vw;
-    padding-top: 10px;
-    padding-bottom: 10px;
+    width: 50vw;
+    padding-top: 20px;
+    padding-bottom: 20px;
     display: flex;
     justify-content: center;
     align-items: center;
