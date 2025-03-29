@@ -27,6 +27,8 @@ p {
     flex-direction: column;
     margin: 20px;
     border-left: 15px solid #7493b3;
+    border-radius: 10px;
+    box-shadow: #25253e 10px 10px 8px;
 }
 
 .cool-box-thing > * {
